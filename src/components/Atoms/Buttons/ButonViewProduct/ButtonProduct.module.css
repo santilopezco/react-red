@@ -1,0 +1,11 @@
+.ButtonProduct button {
+    background-color: #FCA3BE;
+    width: 158.32px;
+    height: 49.8px;
+    border: 0.661049px solid rgba(0, 0, 0, 0.4);
+    box-sizing: border-box;
+    box-shadow: inset 1.3221px 1.3221px 1.3221px 1.3221px rgba(0, 0, 0, 0.25);
+    border-radius: 13.221px;
+    font-size: 22.2353px;
+line-height: 26px;
+}

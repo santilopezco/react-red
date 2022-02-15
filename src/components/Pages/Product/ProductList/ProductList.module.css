@@ -1,0 +1,31 @@
+.ProductList {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.ProductList hr {
+    position: static;
+    width: 1000px;
+    height: 2px;
+    left: 0px;
+    top: 48px;
+    background: #B0347F;
+}
+
+.ProductListCont {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    background-color: white;
+    box-sizing: border-box;
+    margin-top: 50px;
+    
+}
+
+.ProductListTitle {
+    font-size: 26px;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+

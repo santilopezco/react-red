@@ -1,0 +1,65 @@
+.Home { 
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding: 0px;
+      position: relative;
+      top: 7rem;
+      align-self: center;
+      box-sizing: border-box;
+
+}
+
+.Home .Container {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 50%;      
+}
+
+.Home h1 {
+      text-align: center;
+}
+
+.Home h2{
+      text-align: center;
+}
+
+.Home .Buttons {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      padding: 5px;     
+      height: 7rem;
+}
+
+
+.Home img {
+      position: static;
+      width: 50%;
+      
+      left: 604.8px;
+      top: 1.33px;
+}
+
+.Hello {
+      font-size: 43px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-style: normal;
+      width: 414px;
+}
+
+.Hellotwo {
+      font-size: 35px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      width: 414px;
+}
+
+
+.Home .imagehome {
+      width: 604px;
+      height: 753px;
+}
