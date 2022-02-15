@@ -1,5 +1,5 @@
 import Styles from './Home.module.css';
-import plant from '../../../Assets/Images/Verdura.jpg';
+import Plant from '../../../Assets/Images/Verdura.jpg';
 import ButtonCall from '../../Atoms/Buttons/ButtonCall/ButtonCall';
 import ButtonProduct from '../../Atoms/Buttons/ButonViewProduct/ButtonProduct';
 import Slider from '../../../components/Containers/Slider/Slider';
@@ -22,7 +22,7 @@ const Home = () => {
                         </div>
                     <h2 className={Styles.Hellotwo} >Utilizamos prácticas ecológicas de respeto por el ambiente, la conservación del suelo y cuidado permanente de los recursos hídricos y del páramo</h2>
                 </div>            
-                <img className={Styles.imagehome} src={plant} alt={"imgverdura"}/>        
+                <img className={Styles.imagehome} src={Plant} alt={"imgverdura"}/>        
             </div>
             <div>
                 <Slider/>
