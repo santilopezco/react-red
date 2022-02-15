@@ -1,12 +1,10 @@
-import Styles from './Home.module.css'
-import plant from '../../../Assets/Images/Verdura3.jpg'
-/* import NavBar from '../../Containers/NavBar/NavBar'; */
-import ButtonCall from '../../Atoms/Buttons/ButtonCall/ButtonCall'
+import Styles from './Home.module.css';
+import plant from '../../../Assets/Images/Verdura3.jpg';
+import ButtonCall from '../../Atoms/Buttons/ButtonCall/ButtonCall';
 import ButtonProduct from '../../Atoms/Buttons/ButonViewProduct/ButtonProduct';
-import Slider from '../../../components/Containers/Slider/Slider'
-/* import Footer from '../../Containers/Fotter/Footer.jsx' */
-import Data from '../../../Assets/data'
-import ProductCard from '../../Pages/Product/ProductCard/ProductCard.jsx'
+import Slider from '../../../components/Containers/Slider/Slider';
+import Data from '../../../Assets/data';
+import ProductCard from '../../Pages/Product/ProductCard/ProductCard.jsx';
 import ProductList from '../Product/ProductList/ProductList';
 
 const Home = () => {

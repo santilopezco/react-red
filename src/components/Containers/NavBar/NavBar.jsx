@@ -5,7 +5,7 @@ import Car from '../../../Assets/logos/car.svg'
 const NavBar = () => {
     return ( 
         <div className={Styles.NavBar}>
-            <img className={Styles.logo} src={Logo} alt={'imagelogo'}></img>
+            <img className={Styles.logo} src={Logo} alt={'imagelogo'}/>
             <nav className={Styles.navli}>
                 <ul>
                     <li>
@@ -22,7 +22,7 @@ const NavBar = () => {
                     </li>
                 </ul>
             </nav>
-            <img className={Styles.Car} src={Car} alt={'imagelogo'}></img>
+            <img className={Styles.Car} src={Car} alt={'imagelogo'}/>
         </div>
      );
 }
