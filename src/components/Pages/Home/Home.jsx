@@ -1,5 +1,5 @@
 import Styles from './Home.module.css';
-import plant from '../../../Assets/Images/Verdura3.jpg';
+import plant from '../../../Assets/Images/Verdura.jpg';
 import ButtonCall from '../../Atoms/Buttons/ButtonCall/ButtonCall';
 import ButtonProduct from '../../Atoms/Buttons/ButonViewProduct/ButtonProduct';
 import Slider from '../../../components/Containers/Slider/Slider';
