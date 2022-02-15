@@ -10,11 +10,7 @@ import ProductCard from '../../Pages/Product/ProductCard/ProductCard.jsx'
 import ProductList from '../Product/ProductList/ProductList';
 
 const Home = () => {
-   
-   
-
-
-   
+    
    
     return ( 
         <div>
