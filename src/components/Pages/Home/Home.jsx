@@ -7,11 +7,11 @@ import Data from '../../../Assets/data';
 import ProductCard from '../../Pages/Product/ProductCard/ProductCard.jsx';
 import ProductList from '../Product/ProductList/ProductList';
 
-const Home = () => {
+const Home = () => { 
     
    
     return ( 
-        <div>
+        <div> 
             
             <div className={Styles.Home}>
                 <div className={Styles.Container}>
