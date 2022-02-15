@@ -11,7 +11,7 @@ const ButtonProduct = () => {
     return (
         <div className={Styles.ButtonProduct}>
             <button type='button' onClick={handleClick}>
-                <a href="#">Ver Productos</a>
+                <a href="#/ButtonProduct">Ver Productos</a>
             </button>
         </div>
     );
