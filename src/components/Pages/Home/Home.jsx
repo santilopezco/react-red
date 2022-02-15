@@ -24,7 +24,7 @@ const Home = () => {
                         </div>
                     <h2 className={Styles.Hellotwo} >Utilizamos prácticas ecológicas de respeto por el ambiente, la conservación del suelo y cuidado permanente de los recursos hídricos y del páramo</h2>
                 </div>            
-                <img className={Styles.imagehome} src={plant} alt={"imgverdura"}></img>        
+                <img className={Styles.imagehome} src={plant} alt={"imgverdura"}/>        
             </div>
             <div>
                 <Slider/>
